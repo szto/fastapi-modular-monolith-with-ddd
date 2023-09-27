@@ -1,1 +1,1 @@
-# fastapi-modular-monolith-with-ddd
+# python-modular-monolith-with-ddd
